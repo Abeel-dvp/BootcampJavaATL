@@ -1,0 +1,5 @@
+atl\academy\bootcamp\trivia\TriviaApplication.class
+atl\academy\bootcamp\trivia\entities\Pregunta.class
+atl\academy\bootcamp\trivia\entities\Categoria.class
+atl\academy\bootcamp\trivia\TriviaController.class
+atl\academy\bootcamp\trivia\ServletInitializer.class
