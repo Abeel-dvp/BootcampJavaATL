@@ -1,0 +1,9 @@
+// Estor armando una trivia, necesito que me des una pregunta con la categoria cultura con la estructura de JSON: 
+
+ {
+  "category": "aca va el nombre de la categoria",
+  "question": "aca va la pregunta",
+  "options": ["aca va la opcion 1", "aca va la opcion 2", "aca va la opcion 3"],
+  "answer": "aca va el numero de la opcion correcta (debe variar entre la opcion 0, 1 y 2)",
+  "explanation": "Aca tienes que poner la explicacion de porque es la correcta"
+}
