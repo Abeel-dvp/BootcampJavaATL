@@ -20,7 +20,7 @@ public class ChatGptClient {
 
                 // Establecer los encabezados de la solicitud
                 connection.setRequestProperty("Content-Type", "application/json");
-                connection.setRequestProperty("Authorization", "Bearer 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");
+                connection.setRequestProperty("Authorization", "Bearer ***********");
 
                 connection.setDoOutput(true);
                 DataOutputStream outputStream = new DataOutputStream(connection.getOutputStream());
