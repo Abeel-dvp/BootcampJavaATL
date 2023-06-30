@@ -1,0 +1,16 @@
+CRUD = Create Read Update Delete
+ABM = Altas bajas modificacion eliminacion
+
+API RESTFUL:
+
+Crear Usuario
+ruta:/api/usuario [POST]
+
+Elimminar Usuario(ID)
+ruta: /api/usuario/28 [DELETE]
+
+Modificar Usuario(ID)
+ruta: /api/usuario/28	[PUT]
+
+Consultar Usuario(ID)
+ruta: /api/usuario/28  [GET]
